@@ -56,9 +56,6 @@ Technologies:
 <code>
 <img height="40" src="https://img.shields.io/badge/git-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=ff4d4d" />
 </code>
-<code>
-<img height="40" src="https://img.shields.io/badge/vercel-%2320232a.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
-</code>
 </div>
  
 Databases:
