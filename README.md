@@ -31,7 +31,7 @@ Languages:
 <code><img height="40" src="https://img.shields.io/badge/java-%234ea94b.svg?&style=for-the-badge&logo=java&logoColor=white&color=ff4d4d" /></code>
 <code><img height="40" src="https://img.shields.io/badge/javascript-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></code>
 <code><img height="40" src="https://img.shields.io/badge/typescript-%2320232a.svg?&style=for-the-badge&logo=typescript&logoColor=blue" /></code>
-<code><img height="40" src=" https://img.shields.io/badge/python-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=yellow" /></code>
+<code><img height="40" src="https://img.shields.io/badge/python-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=yellow" /></code>
 </div>
 
 Technologies:
@@ -57,7 +57,7 @@ Technologies:
 <img height="40" src="https://img.shields.io/badge/git-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=ff4d4d" />
 </code>
 <code>
-<img height="40" src="https://img.shields.io/badge/git-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=ff4d4d" />
+<img height="40" src="https://img.shields.io/badge/vercel-%2320232a.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
 </code>
 </div>
  
