@@ -14,7 +14,7 @@ Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=p
 
 ### About Me:
 
-- 🎓 I am currently a junior undergraduate at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
+- 🎓 I am currently a senior undergraduate at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
 - 👨‍ I like to solve real life problems and interested in competitive programming and cybersecurity
 - 💻 I am a Full Stack Software Developer enthusiast
 - ⚡ I am looking to collaborate with people and enhance my skills as a developer
