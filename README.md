@@ -30,7 +30,8 @@ Languages:
 <code><img height="40" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /></code>
 <code><img height="40" src="https://img.shields.io/badge/java-%234ea94b.svg?&style=for-the-badge&logo=java&logoColor=white&color=ff4d4d" /></code>
 <code><img height="40" src="https://img.shields.io/badge/javascript-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></code>
- 
+<code><img height="40" src="https://img.shields.io/badge/typescript-%2320232a.svg?&style=for-the-badge&logo=typescript&logoColor=blue" /></code>
+<code><img height="40" src=" https://img.shields.io/badge/python-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=yellow" /></code>
 </div>
 
 Technologies:
@@ -55,7 +56,9 @@ Technologies:
 <code>
 <img height="40" src="https://img.shields.io/badge/git-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=ff4d4d" />
 </code>
- 
+<code>
+<img height="40" src="https://img.shields.io/badge/git-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=ff4d4d" />
+</code>
 </div>
  
 Databases:
@@ -92,6 +95,7 @@ Databases:
  <a href="https://www.linkedin.com/in/ksnmartin/">
    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" align="center" />
  </a>
+ </p>
 ---
 
 ### Relevant Links:
