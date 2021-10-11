@@ -47,9 +47,7 @@ Technologies:
 <code>
 <img height="40" src="https://img.shields.io/badge/angular-%2320232a.svg?&style=for-the-badge&logo=angular&logoColor=red" />
 </code>
-<code>
-<img height="40" src="https://img.shields.io/badge/fastapi-%2320232a.svg?&style=for-the-badge&logo=fastapi&logoColor=%007a6c" />
-</code>
+
 <code>
 <img height="40" src="https://img.shields.io/badge/django-%2320232a.svg?&style=for-the-badge&logo=django&logoColor=%007a6c" />
 </code>
