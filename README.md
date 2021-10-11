@@ -48,9 +48,7 @@ Technologies:
 <img height="40" src="https://img.shields.io/badge/angular-%2320232a.svg?&style=for-the-badge&logo=angular&logoColor=red" />
 </code>
 
-<code>
-<img height="40" src="https://img.shields.io/badge/django-%2320232a.svg?&style=for-the-badge&logo=django&logoColor=%007a6c" />
-</code>
+
 <code>
 <img height="40" src="https://img.shields.io/badge/git-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=ff4d4d" />
 </code>
