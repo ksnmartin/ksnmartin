@@ -1,14 +1,4 @@
-### Hi there 👋 I am  Karyamsetty Martin
-
-Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
-<img src="https://img.shields.io/github/followers/ksnmartin?style=social"/>
-
-<p>
- <i>
-    I am a Software Engineer <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
- </i>
-</p>
+# Hi there 👋 I am  Karyamsetty Martin
 
 ---
 
@@ -31,7 +21,7 @@ Languages:
 <code><img height="40" src="https://img.shields.io/badge/java-%234ea94b.svg?&style=for-the-badge&logo=java&logoColor=white&color=ff4d4d" /></code>
 <code><img height="40" src="https://img.shields.io/badge/javascript-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></code>
 <code><img height="40" src="https://img.shields.io/badge/typescript-%2320232a.svg?&style=for-the-badge&logo=typescript&logoColor=blue" /></code>
-<code><img height="40" src="https://img.shields.io/badge/rust-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=brown" /></code>
+<code><img height="40" src="https://img.shields.io/badge/rust-%2320232a.svg?&style=for-the-badge&logo=rust&logoColor=brown" /></code>
 <code><img height="40" src="https://img.shields.io/badge/python-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=yellow" /></code>
 </div>
 
@@ -88,6 +78,11 @@ Databases:
 <p align="center">
  <a href="https://www.linkedin.com/in/ksnmartin/">
    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" align="center" />
+ </a>
+ </p>
+ <p align="center">
+ <a href="https://www.instagram.com/ksnmartin/">
+   <img src="https://img.icons8.com/instagram" align="center" />
  </a>
  </p>
  
