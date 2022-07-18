@@ -6,8 +6,6 @@
 - 💻 Outside of Software Engineering I enjoy Computational Fluid Dynamics and Data Science
 - ⚡ [Explore more about me on my portfolio website](https://martin.vercel.app/)
 
-<Br>
-<br> 
 <br>
  
 
