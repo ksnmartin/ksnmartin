@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋 I am  Seti</h1>
 
-<h3>About me</h3>
+<h3>About me👩🏾‍🔧</h3>
 
 - 🎓 Indian Institute of Technology (Banaras Hindu University) ,Varanasi 
 - 👨‍ I am currently a Associate Software Engineer @gojek and currently working with the GoFood team
@@ -63,13 +63,13 @@
 <img height="40" src="https://img.shields.io/badge/numpy-%2320232a.svg?&style=for-the-badge&logo=numpy&logoColor=blue" />
 </code>
 
-<h1>Learning</h1>
+<h1>Learning📚</h1>
 <code><img height="40" src="https://img.shields.io/badge/rust-%2320232a.svg?&style=for-the-badge&logo=rust&logoColor=brown" /></code>
 <code><img height="40" src="https://img.shields.io/badge/go-%2320232a.svg?&style=for-the-badge&logo=go&logoColor=blue" /></code>
 <code><img height="40" src="https://img.shields.io/badge/Android-%2320232a.svg?&style=for-the-badge&logo=android&logoColor=green" /></code>
 
 
-<h1>Github stats</h1>
+<h1>Github stats📈</h1>
 <p align="center">
   <a href="https://github.com/ksnmartin">
     <img src="https://github-readme-stats.vercel.app/api?username=ksnmartin&show_icons=true&hide=issues&theme=cobalt&count_private=true"/>
