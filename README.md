@@ -6,7 +6,7 @@ Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=p
 
 <p>
  <i>
-    I am a software developer enthusiast <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
+    I am a Software Engineer <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
  </i>
 </p>
 
@@ -14,10 +14,10 @@ Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=p
 
 ### About Me:
 
-- 🎓 I am currently a senior undergraduate at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
-- 👨‍ I like to solve real life problems and interested in competitive programming and cybersecurity
-- 💻 I am a Full Stack Software Developer enthusiast
-- ⚡ I am looking to collaborate with people and enhance my skills as a developer
+- 🎓 I am a mechanical engineer by degree
+- 👨‍ I am currently a Associate Software Engineer @gojek and currently working with the GoFood team
+- 💻 Outside of Software Engneering I enjoy Computational Fluid Dynamics and Data Science
+- ⚡ I like to solve real life problems and interested in DevOps and Cyber Security
 
 ---
 
@@ -31,6 +31,7 @@ Languages:
 <code><img height="40" src="https://img.shields.io/badge/java-%234ea94b.svg?&style=for-the-badge&logo=java&logoColor=white&color=ff4d4d" /></code>
 <code><img height="40" src="https://img.shields.io/badge/javascript-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></code>
 <code><img height="40" src="https://img.shields.io/badge/typescript-%2320232a.svg?&style=for-the-badge&logo=typescript&logoColor=blue" /></code>
+<code><img height="40" src="https://img.shields.io/badge/rust-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=brown" /></code>
 <code><img height="40" src="https://img.shields.io/badge/python-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=yellow" /></code>
 </div>
 
