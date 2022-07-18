@@ -94,10 +94,10 @@
 
 <h1>Lets connect</h1>
 <p align="center">
-<code href="https://www.linkedin.com/in/ksnmartin" target="blank"><img align="center" src="https://img.shields.io/badge/Karyamsetty%20Martin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></code>   
-<code href="mailto:karyamsettymartin@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/karyamsettymartin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></code>       
-<code href="https://www.github.com/ksnmartin" target="blank"><img align="center" src="https://img.shields.io/badge/ksnmartin-100000?style=for-the-badge&logo=github&logoColor=white" /></code>        
- <code href="https://www.instagram.com/ksnmartin" target="blank"><img align="center" src="https://img.shields.io/badge/ksnmartin-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></code>
+<a href="https://www.linkedin.com/in/ksnmartin" target="blank"><img align="center" src="https://img.shields.io/badge/Karyamsetty%20Martin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>   
+<a href="mailto:karyamsettymartin@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/karyamsettymartin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>       
+<a href="https://www.github.com/ksnmartin" target="blank"><img align="center" src="https://img.shields.io/badge/ksnmartin-100000?style=for-the-badge&logo=github&logoColor=white" /></a>        
+ <a href="https://www.instagram.com/ksnmartin" target="blank"><img align="center" src="https://img.shields.io/badge/ksnmartin-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
  <br>
