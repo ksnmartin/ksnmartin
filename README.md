@@ -8,9 +8,11 @@
 - 💻 Outside of Software Engineering I enjoy Computational Fluid Dynamics and Data Science
 - ⚡ [Explore more about me on my portfolio website](https://martin.vercel.app/)
 <hr>
-<br>
-<h1> Tools I use 🛠️</h1>
 
+<br>
+
+<h1> Tools I use 🛠️</h1>
+<div margin="10px">
 <h3>Languages</h3>
 
 <code><img height="40" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /></code>
@@ -61,6 +63,7 @@
 <code>
 <img height="40" src="https://img.shields.io/badge/numpy-%2320232a.svg?&style=for-the-badge&logo=numpy&logoColor=blue" />
 </code>
+</div>
 
 <br>
 
