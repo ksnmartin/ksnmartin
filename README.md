@@ -1,15 +1,15 @@
 
-<h1 align="center">Hi there 👋 I am  Seti</h1>
-
-<h3>About me👩🏾‍🔧</h3>
+<h1>Hi there 👋 I am  Seti ,  here is a little about me</h1>
 
 - 🎓 Indian Institute of Technology (Banaras Hindu University) ,Varanasi 
-- 👨‍ I am currently a Associate Software Engineer @gojek and currently working with the GoFood team
+- 👩🏾‍🔧I am currently a Associate Software Engineer @gojek and currently working with the GoFood team
 - 💻 Outside of Software Engineering I enjoy Computational Fluid Dynamics and Data Science
 - ⚡ [Explore more about me on my portfolio website](https://martin.vercel.app/)
-<hr>
 
+<Br>
+<br> 
 <br>
+ 
 
 <h1> Tools I use 🛠️</h1>
 
