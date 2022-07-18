@@ -1,4 +1,4 @@
-# Hi there 👋 I am  Karyamsetty Martin
+<h1 align="center">Hi there 👋 I am  Seti</h1>
 
 ---
 
