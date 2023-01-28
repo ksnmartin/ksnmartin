@@ -2,7 +2,7 @@
 <h1>Hi there 👋 I am  Seti ,  here is a little about me</h1>
 
 - 🎓 Indian Institute of Technology (Banaras Hindu University) ,Varanasi 
-- 👩🏾‍🔧I am currently looking for a new job . Formerly a Associate Software Engineer @gojek and worked with the GoFood team
+- 👩🏾‍🔧I am currently working as a Software Engineer @mailmodo . Formerly work as Software Engineer @gojek onthe GoFood team 
 - 💻 Outside of Software Engineering I enjoy Computational Fluid Dynamics and Data Science
 - ⚡ [Explore more about me on my portfolio website](https://martin.vercel.app/)
 
