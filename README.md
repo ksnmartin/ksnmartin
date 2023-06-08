@@ -4,7 +4,7 @@
 - 🎓 Indian Institute of Technology (Banaras Hindu University) ,Varanasi 
 - 👩🏾‍🔧I am currently working as a Software Engineer @mailmodo . Formerly worked as a Software Engineer @gojek on the GoFood team 
 - 💻 Outside of Software Engineering I enjoy Computational Fluid Dynamics and Data Science
-- ⚡ [Explore more about me on my portfolio website](https://martin.vercel.app/)
+- ⚡ [Explore more about me on my portfolio website](https://ksnmartin.in/)
 
 <br>
  
